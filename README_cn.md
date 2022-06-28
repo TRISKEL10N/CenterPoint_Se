@@ -1,6 +1,6 @@
 # **CenterPoint-Se**
 ## **目录**
-[中文|[English](README_en.md)]
+[中文|[English](docs/README_en.md)]
 
 - [概述](#概述)
 - [实验结果](#实验结果)
