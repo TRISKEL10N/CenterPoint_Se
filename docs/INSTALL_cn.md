@@ -4,7 +4,7 @@
 
 根据[det3d](https://github.com/poodarchu/Det3D/tree/56402d4761a5b73acd23080f537599b0888cce07)的原始文档进行修改
 
-### 必要条件
+### 基础环境
 
 - Linux
 - Python 3.6+
@@ -26,7 +26,7 @@
 - spconv: 1.0/1.2.1
 - CUDA: 10.0/11.1
 
-### 基础安装 
+### 第一步 
 
 ```bash
 # 基础的 python 库
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 export PYTHONPATH="${PYTHONPATH}:PATH_TO_CENTERPOINT"
 ```
 
-### 高级安装 
+### 第二步 
 
 #### nuScenes dev-kit
 
