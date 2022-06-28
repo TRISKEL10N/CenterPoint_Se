@@ -2,13 +2,9 @@
 ## **Contents**
 [[中文](README_cn.md)|English]
 
-- [**CenterPoint-Se**](#centerpoint-se)
-  - [**Contents**](#contents)
   - [**Introduction**](#introduction)
   - [**Experomental Results**](#experomental-results)
   - [**How To Use**](#how-to-use)
-    - [**Installion**](#installion)
-    - [**Model Evaluation and Training**](#model-evaluation-and-training)
 
 ## **Introduction**
 
@@ -30,8 +26,8 @@ To further analyze the reasons for performance improvement, we evaluated the per
 
 ### **Installion**
 
-Please reffer to [INSTALL](../docs/INSTALL_en.md) to set up libraries needed for dietributed trainging and sparse convolution.
+Please reffer to [INSTALL](docs/INSTALL_en.md) to set up libraries needed for dietributed trainging and sparse convolution.
 
 ### **Model Evaluation and Training**
 
-Please refer to [GETTING_START](../docs/GETTING_START.md) to prepare the data. Then follow the instruction there to reproduce our detection and tracking results. All detection configurations are included in [configs](configs). (Now we only improve the original CenterPoint algorithm on the NuScenes dataset)
+Please refer to [GETTING_START](docs/GETTING_START.md) to prepare the data. Then follow the instruction there to reproduce our detection and tracking results. All detection configurations are included in [configs](configs). (Now we only improve the original CenterPoint algorithm on the NuScenes dataset)

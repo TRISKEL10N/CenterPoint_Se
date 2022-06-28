@@ -26,8 +26,8 @@
 
 ### **环境配置**
 
-安装模型分布式训练、稀疏卷积所需要的依赖库，详细过程请参考[INSTALL](../docs/INSTALL_cn.md)。
+安装模型分布式训练、稀疏卷积所需要的依赖库，详细过程请参考[INSTALL](docs/INSTALL_cn.md)。
 
 ### **模型训练与测试**
 
-数据的准备、模型的训练和测试等过程请参考[GETTING_START](../docs/GETTING_START.md)，其中所有的实验配置都在[configs](../configs)文件夹中。（我们目前仅在NuScenes上对原始的CenterPoinrt算法和相应配置文件进行了修改）
+数据的准备、模型的训练和测试等过程请参考[GETTING_START](docs/GETTING_START.md)，其中所有的实验配置都在[configs](configs)文件夹中。（我们目前仅在NuScenes上对原始的CenterPoinrt算法和相应配置文件进行了修改）
