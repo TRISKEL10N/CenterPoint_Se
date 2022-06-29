@@ -1,4 +1,4 @@
-## Getting Started with CenterPoint on nuScenes
+## 在nuScenes数据集上运行CenterPoint
 
 [中文|[English](NUSC_en.md)]
 
@@ -38,7 +38,7 @@ python tools/create_data.py nuscenes_data_prep --root_path=NUSCENES_TRAINVAL_DAT
 python tools/try_run.py
 ```
 
-最后，数据和信息文件应按如下方式组织
+最终，数据和信息文件应按如下方式组织
 
 ```
 # For nuScenes Dataset 
